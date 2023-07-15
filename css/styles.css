@@ -63,7 +63,7 @@ img {
 .container {
   min-width: 320px;
   margin: 0 auto; 
-  padding: 0 15px; 
+  padding: 0 10px; 
 }
 
 .header {
@@ -2284,7 +2284,7 @@ display:block;
   padding: 40px;
   margin: 0;
   list-style: none;
-  color: #2e2f42;
+  
   margin-bottom: 284px;
  
 }
@@ -2298,7 +2298,7 @@ display:block;
 
 .mobile-menu-item{
   font-size: 36px;
-  
+  color: #434455;
     font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.72px;
@@ -2363,6 +2363,7 @@ display:block;
   justify-content: left;
   align-items: center;
   max-width: 328px;
+  min-width: 200px;
   gap: calc((100% - 160px) / 3);;
   padding: 0;
 }
